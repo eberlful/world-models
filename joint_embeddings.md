@@ -127,9 +127,9 @@ Zukünftige Entwicklungen werden sich verstärkt mit der Skalierung, Effizienz u
 ---
 
 Quellen und weiterführende Literatur:
-- Joint Embedding Methods – Contrastive Ansätze und mathematische Details [citeturn0search0].
-- Grundlegende Definitionen zu Joint-Embedding in Machine Learning [citeturn0search1].
-- Meta AI’s I-JEPA und dessen Anwendung im selbstüberwachten Lernen [citeturn0search6].
-- Ansätze im Kernel-Regime [citeturn0search7].
+- Joint Embedding Methods – Contrastive Ansätze und mathematische Details [https://atcold.github.io/NYU-DLSP21/en/week15/15-1/].
+- Grundlegende Definitionen zu Joint-Embedding in Machine Learning [https://www.nailedit.ai/terms/joint-embedding].
+- Meta AI’s I-JEPA und dessen Anwendung im selbstüberwachten Lernen [https://encord.com/blog/i-jepa-explained/].
+- Ansätze im Kernel-Regime [https://arxiv.org/abs/2209.14884].
 
 Mit diesem Einblick in die technischen Hintergründe und aktuellen Entwicklungen hoffen wir, einen umfassenden Überblick über Joint-Embedding zu bieten – von den mathematischen Grundlagen bis hin zu modernen Anwendungen in der KI.
